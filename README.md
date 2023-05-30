@@ -1,4 +1,4 @@
-### Hello word 👋
+### Hello World 👋
 
 - 🔭 I’m currently working on back end
 - 🌱 I’m currently learning django
