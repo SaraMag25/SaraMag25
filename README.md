@@ -1,8 +1,4 @@
 ### Hello World 👋
-
-- 🔭 I’m currently working on back end
-- 🌱 I’m currently learning django
-- 😄 Pronouns: she/her
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaraMag25&show_icons=true&theme=transparent)
 
