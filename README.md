@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens:</strong> Python, Dart, JavaScript, SQL
+  🚀 <strong>Linguagens:</strong> Python, Dart, JavaScript, SQL
 </p>
 
 <p align="left">
