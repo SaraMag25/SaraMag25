@@ -1,37 +1,30 @@
-### Hello World 🦦
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraMag25&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/SaraMag25)
+<p align="left"> 
+  Olá! Sou a <strong>Sara Magalhães</strong>, desenvolvedora apaixonada por tecnologia e inovação. 🚀<br>
+  Trabalho com desenvolvimento web e mobile, focando em criar soluções eficientes e escaláveis.<br>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraMag25&theme=dark&hide_border=true&layout=compact&langs_count=8)](https://github.com/SaraMag25)
+<p align="left">
+  🦄 <strong>Linguagens:</strong> Python, Dart, JavaScript, SQL
+</p>
 
-</div>
+<p align="left">
+  💼 <strong>Ferramentas:</strong> Flutter, Django, Angular, PostgreSQL, VS Code, Git
+</p>
 
-<br>
+<p align="left">
+  💌 Entre em contato comigo: ⤵️
+</p>
 
-<div align="center">
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
-
-<br>
-
----
-
-<div align="center"> 
-  <a href="https://www.instagram.com/sara_mag4l/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<p align="left">
+  <a href="mailto:saramagalhaes242@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="mailto:saramagalhaes242@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.linkedin.com/in/sarasousamagalhaes/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/sarasousamagalhaes/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
+  <a href="https://wa.me/(88)9662-8418" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
