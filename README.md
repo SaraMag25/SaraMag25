@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Banner" width="100%"/>
-</p>
+  <img src="https://i.pinimg.com/originals/ae/93/ef/ae93efea76cebbc5305f4904f33c6ac0.gif" alt="Banner" width="100%"/>
+</p> 
 
 # Sara Magalhães
 
@@ -22,10 +22,16 @@ Currently learning: `Your Technologies`
 
 ### Tools
 
-`C++` `Java` `Python` `JavaScript` `React` `Node.js` `Git` `MySQL` `Docker`
+<p align="center">
+  C++ • Java • Python • JavaScript • React • Node.js • Git • MySQL • Docker
+</p>
+
 
 ### Contact
 
-[LinkedIn](https://linkedin.com/in/yourprofile) • [Email](mailto:your.email@example.com) • [Portfolio](https://yourportfolio.com)
-
----
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> • 
+  <a href="mailto:your.email@example.com">Email</a> • 
+  <a href="https://github.com/SaraMag25">GitHub</a> • 
+  <a href="https://instagram.com/yourprofile">Instagram</a>
+</p>
