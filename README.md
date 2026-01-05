@@ -4,17 +4,15 @@
 
 # Sara Magalhães
 
-**Software Developer** | Brazil 🇧🇷
-
----
+**Software Developer**
 
 ### About
+---
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/27/12/66/271266dd0bc7e09bef419e60b96cf256.gif">
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-Student at [Your University] studying [Your Degree]. Interested in software development, problem-solving, and building things with code.
-
-Currently learning: `Your Technologies`
+Student at Federal University of Ceará (UFC) studying Computer Engineering. 
+Interested in software development, problem-solving, and I love programming. 
+This is my life.
 
 <br clear="both"/>
 
