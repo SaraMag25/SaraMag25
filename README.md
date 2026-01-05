@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ae/93/ef/ae93efea76cebbc5305f4904f33c6ac0.gif" alt="Banner" width="100%"/>
+  <img src="https://i.pinimg.com/1200x/bc/bd/eb/bcbdebfb66620f089688b40f67c857de.jpg" alt="Banner" width="100%"/>
 </p> 
 
 # Sara Magalhães
