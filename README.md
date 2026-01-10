@@ -10,9 +10,7 @@
 ---
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/27/12/66/271266dd0bc7e09bef419e60b96cf256.gif">
 
-Student at Federal University of Ceará (UFC) studying Computer Engineering. 
-Interested in software development, problem-solving, and I love programming. 
-This is my life.
+Student at Federal University of Ceará (UFC) studying Computer Engineering. Passionate about software development and problem-solving, programming is my life. I'm part of an IoT extension project and currently work as a Frontend Developer at LESC.
 
 <br clear="both"/>
 
