@@ -27,15 +27,15 @@ Student at Federal University of Ceará (UFC) studying Computer Engineering. Pas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaraMag25/SaraMag25/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaraMag25/SaraMag25/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SaraMag25/SaraMag25/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarasousamagalhaes/">LinkedIn</a> -
   <a href="mailto:saradesousamagalhaes@gmail.com">Email</a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaraMag25/SaraMag25/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaraMag25/SaraMag25/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SaraMag25/SaraMag25/output/github-contribution-grid-snake.svg">
+</picture>
